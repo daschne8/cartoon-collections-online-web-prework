@@ -19,4 +19,5 @@ def find_the_cheese(snacks)
     else
       return nil
     end
+  end
 end
